@@ -1,0 +1,16 @@
+If you want to know how to use this template. Please refer to http://http://ruentex.blogspot.com/2009/10/grails-on-google-app-engine.html
+
+HISTORY:
+
+v0.1 Init Template
+v0.2 (not in this git)
+    (1) Add uservoice.com script to main.gsp
+    (2) Add quantcast.com script to main.gsp
+    (3) Add streampad.com script to main.gsp
+
+KNOWN BUGS:
+Tag: v0.1
+Warning from GAE:
+(1) log4j:ERROR Error initializing log4j: java.io.FileOutputStream is a restricted class. Please see the Google App Engine developer's guide for more details.
+(2) .<stderr>: Unable to use direct char[] access of java.lang.String
+
